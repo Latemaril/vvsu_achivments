@@ -1,0 +1,49 @@
+@import "reset.css";
+@import "main.css";
+
+@media only screen and (min-width: 1200px){
+    .container {
+        width: 1170px;
+    }
+
+}
+
+@media only screen and (min-width: 992px){
+    .container {
+        width: 970px;
+    }
+
+}
+
+
+@media only screen and (min-width: 900px){
+    .container {
+        width: 890px;
+    }
+
+}
+
+@media (min-width: 320px){
+
+
+}
+
+@media (min-width: 992px) {
+
+}
+
+
+@media (min-width: 1200px){
+    .container {
+        width: 1170px;
+    }
+
+}
+
+@media (min-width: 1400px){
+    .container {
+        max-width: 1320px;
+    }
+
+}
+
